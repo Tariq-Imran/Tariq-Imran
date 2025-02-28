@@ -14,12 +14,14 @@ Blockchain Developer, Vyper Smart Contract & Python
 ***
 
 Section 1: Blockchain Basics
-GitHub repository:
+GitHub repository: https://github.com/Tariq-Imran/blockchain-basics
 
 ***
 
 Vyper 101
+
 *** 
 Section 1: Welcome to Remix - Favorite's List
+
 
 Section 2: Remix Buy Me A Coffee
