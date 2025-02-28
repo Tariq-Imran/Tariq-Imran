@@ -25,3 +25,4 @@ Section 1: Welcome to Remix - Favorite's List
 GitHub repository: https://github.com/Tariq-Imran/vyper-favorite-list
 
 Section 2: Remix Buy Me A Coffee
+GitHub repository: https://github.com/Tariq-Imran/buy-me-a-coffee-cyfrin
