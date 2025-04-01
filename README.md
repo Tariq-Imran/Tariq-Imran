@@ -30,3 +30,9 @@ Section 1: Welcome to Remix - Favorite's List
 Section 2: Remix Buy Me A Coffee
 
 ✨ GitHub repository: https://github.com/Tariq-Imran/buy-me-a-coffee-cyfrin
+
+
+***
+⚡ Intermediate Python and Vyper Smart Contract && Moccasin Funadamentals ⚡
+***
+Sec 1: Welcome to Python in Updraft
