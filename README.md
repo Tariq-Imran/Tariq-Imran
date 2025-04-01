@@ -36,3 +36,4 @@ Section 2: Remix Buy Me A Coffee
 ⚡ Intermediate Python and Vyper Smart Contract && Moccasin Funadamentals ⚡
 ***
 Sec 1: Welcome to Python in Updraft
+GitHub repository: https://github.com/Tariq-Imran/moccasin_fundamentals
