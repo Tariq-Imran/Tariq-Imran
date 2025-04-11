@@ -37,3 +37,8 @@ Section 2: Remix Buy Me A Coffee
 ***
 Sec 1: Welcome to Python in Updraft
 GitHub repository: https://github.com/Tariq-Imran/moccasin_fundamentals
+
+Sec 2: Web3py in Cyfrin Updraft
+GitHub repository:
+Sec 3: BOA in Cyfrin Updraft
+GitHub repository:
