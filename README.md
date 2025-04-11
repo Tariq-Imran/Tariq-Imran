@@ -39,6 +39,7 @@ Sec 1: Welcome to Python in Updraft
 GitHub repository: https://github.com/Tariq-Imran/moccasin_fundamentals
 
 Sec 2: Web3py in Cyfrin Updraft
-GitHub repository:
+GitHub repository: https://github.com/Tariq-Imran/web3py-favorites-cu
+
 Sec 3: BOA in Cyfrin Updraft
-GitHub repository:
+GitHub repository: 
