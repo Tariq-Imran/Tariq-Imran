@@ -43,3 +43,6 @@ GitHub repository: https://github.com/Tariq-Imran/web3py-favorites-cu
 
 Sec 3: Titanoboa Favorite's List Cyfrin Updraft
 GitHub repository: https://github.com/Tariq-Imran/boa-favorites-cu
+
+Sec 4: Moccasin Favorite's List Cyfrin Updraft
+GitHub repository: 
