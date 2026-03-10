@@ -15,11 +15,20 @@ You can click the Preview link to take a look at your changes.
 **** LangChain, LangGraph, LangSmith ****
 
 ## LangChain
-GitHub repository:
+
+** LangChain Foundation
+GitHub repository: https://github.com/Tariq-Imran/Foundation-Langchain
+
+** LangChain Essentials
+GitHub repository: https://github.com/Tariq-Imran/LangChain-Essentials
+
+** LangChain RAG
+GitHub repository: https://github.com/Tariq-Imran/LangChain-RAG
 
 ## LangGraph
+** LangGraph Introduction
 
-GitHub repository:
+GitHub repository: https://github.com/Tariq-Imran/Langgraph_intro
 
 ***
 ⚡ Blockchain Developer, Vyper Smart Contract & Python ⚡
