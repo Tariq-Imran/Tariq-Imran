@@ -12,7 +12,7 @@ Tariq-Imran/Tariq-Imran is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## LangChain, LangGraph, LangSmith ****
+## LangChain, LangGraph, LangSmith
 
 ### LangChain
 
