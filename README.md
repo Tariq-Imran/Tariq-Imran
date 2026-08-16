@@ -1,10 +1,10 @@
 -  I’m @Tariq-Imran, Cryptocurrency and AI Enthusiast
--  I’m interested in Blochchain Tecgnology using Solidity, Vyper and Python
-- 🌱 I’m currently learning Blochchain Tecgnology using Python and Vyper.
+-  I’m interested in Blockchain Technology using Solidity, Vyper and Python
+- 🌱 I’m currently learning Blockchain Technology using Python and Vyper.
 -   I’m currently learning LangChain, LangGraph, LangSmith.
 -   I’m currently learning AI automation through n8n.
 - ⚡Exploring prompt enginnering through Langchain, Langflow, Hugging Face, CrewAI, ChatGPT, Claude
-- I’m actively exploring opportunities in the Web3 (blockchain technologies) ecosystem
+- I’m actively exploring opportunities in the Web3 (Blockchain technologies) ecosystem
 - How to reach me: tariqul.imran@gmail.com, https://www.linkedin.com/in/tariqul-imran/
 
 <!---
